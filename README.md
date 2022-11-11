@@ -28,6 +28,9 @@ Gamma Correction:
 
 Training and Testing:
 * For model training and validation purpose, change path and run \train.py
-* For generating testing results purpose, change path and run \test.py. It will generate an /Test_output.txt file, 
+* For generating testing results purpose, change path and run \test.py. It will generate an \Test_output.txt file, 
 containing testing video number and their classifications.  
+
+Pretrained Model:
+* The model files have not been uploaded on account of taking up a lot of memories, but model files are available upon request.  
 
