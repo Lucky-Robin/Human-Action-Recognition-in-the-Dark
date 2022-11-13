@@ -32,5 +32,6 @@ Training and Testing:
 containing testing video number and their classifications.  
 
 Pretrained Model:
-* The model files have not been uploaded on account of taking up a lot of memories, but model files are available upon request.  
+* The model files have not been uploaded on account of taking up a lot of memories, but model files are available 
+upon request (yang0748@e.ntu.edu.sg).  
 
